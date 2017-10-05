@@ -1,0 +1,27 @@
+[
+  {
+    "cloze": "franklin roosevelt",
+    "text": "franklin roosevelt was the only president to serve more than two terms",
+    "partial": "... was the only president to serve more than two terms"
+  },
+  {
+    "cloze": "grover cleveland",
+    "text": "grover cleveland was the only President to serve two non-consecutive terms",
+    "partial": "... was the only President to serve two non-consecutive terms"
+  },
+  {
+    "cloze": "donald trump",
+    "text": "donald trump was the oldest elected president",
+    "partial": "... was the oldest elected president"
+  },
+  {
+    "cloze": "john adams",
+    "text": "john adams was the first president to live in the white house",
+    "partial": "... was the first president to live in the white house"
+  },
+  {
+    "cloze": "jerry seinfeld",
+    "text": "seinfeld was created by jerry seinfeld",
+    "partial": "seinfeld was created by ..."
+  }
+]

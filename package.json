@@ -1,0 +1,24 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "flash card app",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nsd32/flashcard-generator.git"
+  },
+  "author": "Nick Devereaux",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nsd32/flashcard-generator/issues"
+  },
+  "homepage": "https://github.com/nsd32/flashcard-generator#readme",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "fs": "0.0.1-security",
+    "inquirer": "^3.3.0"
+  }
+}
