@@ -13,5 +13,5 @@ The user can play the flashcard game and create new cards.
 * Git Clone the repository
 * Navigate to the folder where the repository exists using Git Bash or Terminal
 * Run the command npm install to download the required dependencies
-* Run the command node game.js to run the customer program
+* Run the command node game.js
 ```
